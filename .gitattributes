@@ -1,2 +1,2 @@
-folder/* linguist-documentation
+* linguist-documentation
 *.jl linguist-documentation=false 
